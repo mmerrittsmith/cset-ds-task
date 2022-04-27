@@ -23,7 +23,7 @@ words facial or recognition to appear anywhere independtly in the title and abst
 # 2
 
 ## a
-![2a_plot_basic](linktopapers_started_by_year.png)
+![2a_plot_basic](https://github.com/mmerrittsmith/cset-ds-task/blob/main/papers_started_by_year.png?raw=true)
 First, note that for the plot above I extrapolated the count for 2019 from the 9 months of data we have to the full year.
 That might be faulty since I would expect that November and December have lower research output than other months.
 Research output relevant to facial recognition visually appears to be increasing exponentially y.o.y., but in reality it
@@ -33,7 +33,9 @@ I think it would be a mistake to try to fit this as a regression with a squared 
 be a linear relationship with time. This timeline makes sense, given that random forests were the state of the art in ML
 around 2008 but were superseded by neural nets by 2012.
 
-![2a_plot_pct]()
+![2a_plot_pct](https://github.com/mmerrittsmith/cset-ds-task/blob/main/papers_started_pct_change.png?raw=true)
+
+![2a_plot_pct_of_total](https://github.com/mmerrittsmith/cset-ds-task/blob/main/fr_papers_as_pct_of_total_by_year.png?raw=true)
 
 ## b
 Facial recognition is a growing field. There were more papers started on ArXiv in one month of 2019 than in all of 2009. 
